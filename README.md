@@ -1,2 +1,2 @@
 # Pandas-Project
-Pandas Projects
+Pandas Projects for beginners
